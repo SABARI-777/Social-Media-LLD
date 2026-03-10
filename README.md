@@ -174,8 +174,8 @@ This project demonstrates:
 3. Use menu-driven options to explore features
 
 Comments to run:
-1 g++ main.cpp -o main.exe
-2 main.exe
+1. g++ main.cpp -o main.exe  
+2. main.exe
 ---
 
  Author
